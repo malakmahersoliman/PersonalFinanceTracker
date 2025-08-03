@@ -7,7 +7,7 @@ A beginner-friendly Android app with two screens — built to help users log and
 ##  Features
 
 -  **Welcome Screen** with a friendly message
-- ➡ **Track Expense** button launches the expense form
+-  **Track Expense** button launches the expense form
 -  **Share** button uses implicit intent to share sample expense
 -  **Expense Form** with fields for name, amount, and category
 -  **Save Button** with simple Toast confirmation
@@ -33,8 +33,8 @@ A beginner-friendly Android app with two screens — built to help users log and
 ---
 
 ##  Screenshots
-<img width="1080" height="2400" alt="MainActivity" src="https://github.com/user-attachments/assets/501b8355-4221-4bbf-92ec-6c8761297684" />
-<img width="1080" height="2400" alt="FinanceActivity" src="https://github.com/user-attachments/assets/00a44a06-8655-4c0d-bdd3-3ffbf7ccaa00" />
+<img width="108" height="240" alt="MainActivity" src="https://github.com/user-attachments/assets/501b8355-4221-4bbf-92ec-6c8761297684" />
+<img width="108" height="240" alt="FinanceActivity" src="https://github.com/user-attachments/assets/00a44a06-8655-4c0d-bdd3-3ffbf7ccaa00" />
 
 
 
