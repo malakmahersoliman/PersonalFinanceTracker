@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">PersonalFinanceTrackerapp</string>
+    <string name="app_name">PersonalFinanceTracker</string>
+    <string name="welcome_text">Welcome to your Personal Finance Tracker!</string>
+    <string name="track_expense">Track Expense</string>
+    <string name="share">Share</string>
+    <string name="save_expense">Save Expense</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="expense_name">Expense Name</string>
+    <string name="add_a_new_expense">Add a New Expense</string>
+    <string name="back">Back</string>
 </resources>
