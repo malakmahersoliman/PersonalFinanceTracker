@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_padding">24dp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="margin_bottom_big">24dp</dimen>
+    <dimen name="margin_bottom">16dp</dimen>
+    <dimen name="Top_margin_welcome">60dp</dimen>
+    <dimen name="margin_top">40dp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+
+
+</resources>
